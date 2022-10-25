@@ -2,10 +2,10 @@
 ![](https://assets.entrepreneur.com/content/3x2/2000/20150423221011-forecast-prediction-crystal-ball.jpeg)
 
 ## Introduction
-With over 200 million users, MercadoLibre is the most popular e-commerce site in Latin America. The analysis notebook included evaluates how the company Google Search traffic correlates to its stock price. Additionally, a Prophet forecast model is used tp predict hourly user search traffic, as well as to forecast the company’s future revenue.
+With over 200 million users, MercadoLibre is the most popular e-commerce site in Latin America. The analysis notebook included evaluates how the company's Google Search traffic correlates to its stock price. Additionally, a Prophet forecast model is used to predict hourly user search traffic, as well as to forecast the company’s future revenue.
 
 ## Summary of Results
-The main analysis finsings are as follows:
+The main analysis findings are as follows:
 1. The stock price only appears to correlate well (r=0.41) with the search traffic in 2020 after the beginning of the COVID shutdown, as shown below. 
 
 ![](Images/may_correlation.png)
